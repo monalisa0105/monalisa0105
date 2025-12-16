@@ -37,14 +37,11 @@
 </p>
 
 ---
-
 ## ⏱ WakaTime Stats
-<!-- Replace YOUR_WAKATIME_USERNAME with your WakaTime username -->
-<p align="center">
-  <img src="https://wakatime.com/share/@monalisa0105/<figure><embed src="https://wakatime.com/share/@monalisa0105/a2f1fc46-5d3b-4199-9f90-9ba7a36e4aad.svg"></embed></figure>" alt="WakaTime Stats" height="160"/>
-</p>
 
-> **Note:** You don’t need an API key for this embed. Just use your **WakaTime username** and dashboard share link.
+<p align="center">
+  <img src="https://wakatime.com/share/@monalisa0105/a2f1fc46-5d3b-4199-9f90-9ba7a36e4aad.svg" height="160"/>
+</p>
 
 ---
 
