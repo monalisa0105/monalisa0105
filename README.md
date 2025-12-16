@@ -44,6 +44,11 @@
 </p>
 
 ---
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 🎯 Goals for 2025
 - ✔ Build strong DSA foundation
